@@ -17,14 +17,14 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="feature1.png">
+      <img src="images/feature1.png">
       <figcaption>The body of a person can be represented by two features: height and weight
 </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-      <img src="feature2.png">
+      <img src="images/feature2.png">
       <figcaption>A location on the map can be represented by two features: Latitude and Longitude
 </figcaption>
     </figure>
