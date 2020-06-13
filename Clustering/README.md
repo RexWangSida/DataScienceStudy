@@ -15,3 +15,7 @@
 - A feature is **usually a real number** represent a property of data items.
 - A data item `x` is represented by a **feature vector** `x = [x1, x2, ..., xr]`.
 <img src="images/feature1.png" width=50% ></img><img src="images/feature2.png" width=50% ></img>
+
+## Distance Metric
+- A **distance metric** is a function `d(x,y)` that defines the **distance** between two data items `x` and `y`.
+- - A large distance means a small similarity
