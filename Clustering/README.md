@@ -2,4 +2,4 @@
 ## Clustering & Cluster
 - **Clustering:** The organization of unlabeled data items into similarity groups called **clusters**.
 - **Cluster:** A group of data items that are **similar** within the group, but are **dissimilar** to data items in other groups.
-<img src="images/Clusters.png" width=40% style="horizontal-align:middle;"></img>
+<centering><img src="images/Clusters.png" width=40% ></img></centering>
