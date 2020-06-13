@@ -18,4 +18,4 @@
 
 ## Distance Metric
 - A **distance metric** is a function `d(x,y)` that defines the **distance** between two data items `x` and `y`.
-- - A large distance means a small similarity
+ - A large distance means a small similarity
