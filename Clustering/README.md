@@ -20,4 +20,4 @@
 - A **distance metric** is a function `d(x,y)` that defines the **distance** between two data items `x` and `y`.
   - A large distance means a small similarity
 - Typical distance metrics for data items `x = [x1, ..., xr]` and `y = [y1, ..., yr]` include
-<img src="images/distance.png" width=50% ></img>
+<img src="images/distance.png"  ></img>
