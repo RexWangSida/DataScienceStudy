@@ -14,11 +14,4 @@
 - A **featrue** is an individual measurable property of a phenomenon being observed.
 - A feature is **usually a real number** represent a property of data items.
 - A data item `x` is represented by a feature vector `x = [x1, x2, ..., xr]`.
-<div class="row">
-  <div class="column">
-    <img src="images/feature1.png">
-  </div>
-  <div class="column">
-    <img src="images/feature2.png">
-  </div>
-</div>
+![alt-text-1](images/feature1.png "title-1") ![alt-text-2](images/feature2.png "title-2")
