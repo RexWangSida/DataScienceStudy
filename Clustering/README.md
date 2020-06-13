@@ -17,14 +17,16 @@
 <div class="row">
   <div class="column">
     <figure>
-      <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
-      <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+      <img src="feature1.png">
+      <figcaption>The body of a person can be represented by two features: height and weight
+</figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-      <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
-      <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+      <img src="feature2.png">
+      <figcaption>A location on the map can be represented by two features: Latitude and Longitude
+</figcaption>
     </figure>
   </div>
 </div>
