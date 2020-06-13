@@ -16,17 +16,9 @@
 - A data item `x` is represented by a feature vector `x = [x1, x2, ..., xr]`.
 <div class="row">
   <div class="column">
-    <figure>
-      <img src="images/feature1.png">
-      <figcaption>The body of a person can be represented by two features: height and weight
-</figcaption>
-    </figure>
+    <img src="images/feature1.png">
   </div>
   <div class="column">
-    <figure>
-      <img src="images/feature2.png">
-      <figcaption>A location on the map can be represented by two features: Latitude and Longitude
-</figcaption>
-    </figure>
+    <img src="images/feature2.png">
   </div>
 </div>
