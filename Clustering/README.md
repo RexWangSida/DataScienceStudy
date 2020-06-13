@@ -9,3 +9,8 @@
 - **Distance Metric:** A function to <ins>evaluate the distance</ins> between two data items.
 - **Clustering Criterion:** A function to <ins>evaluate the quality</ins> of a clustering.
 - **Clustering Algorithm:** An algorithm to <ins>compute a good clustering</ins> by optimizing the clustering criterion.
+
+## Features
+- A **featrue** is an individual measurable property of a phenomenon being observed.
+- A feature is **usually a real number** represent a property of data items.
+- A data item `x` is represented by a feature vector `x = [x1, x2, ..., xr]`.
