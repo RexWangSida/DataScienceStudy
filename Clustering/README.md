@@ -7,3 +7,4 @@
 ## Basic Components of a Clustering Algorithm
 - **Feature:** A <ins>measurable property</ins> to <ins>represent an attribute of data items</ins>.
 - **Distance Metric:** A function to <ins>evaluate the distance</ins> between two data items.
+- **Clustering Criterion:** A function to <ins>evaluate the quality</ins> of a clustering.
