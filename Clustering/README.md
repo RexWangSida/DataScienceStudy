@@ -5,4 +5,5 @@
 <div align="center"><img src="images/Clusters.png" width=40% ></img></div>
 
 ## Basic Components of a Clustering Algorithm
-- **Feature:** A measurable property to <ins>represent an attribute of data items</ins>.
+- **Feature:** A <ins>measurable property</ins> to <ins>represent an attribute of data items</ins>.
+- **Distance Metric:** A function to <ins>evaluate the distance</ins> between two data items.
