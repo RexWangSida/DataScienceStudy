@@ -49,9 +49,3 @@
 <br />
 <div align="center"><img src="images/partition.png" width="50% ></img></div>
 <br />
-
-
-- **Bayesian algorithms**: aim to generate a <ins>posterior distribution</ins> over the collection of all data items.
-<br />
-<div align="center"><img src="images/bayesian.png"  width="50%></img></div>
-<br />
