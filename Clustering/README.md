@@ -43,8 +43,10 @@
 - **Hierarchical algorithms**: iteratively generate a tree of clusters by finding successive clusters using previously found cluster.
 <img src="images/hierarchical.png"  ></img>
 <Enter>
+
 - **Partition based algorithms**: determine all clusters together by partitioning all data items into a number of cluster.
 <img src="images/partition.png"  ></img>
 <Enter>
+
 - **Bayesian algorithms**: aim to generate a <ins>posterior distribution</ins> over the collection of all data items.
 <img src="images/bayesian.png"  ></img>
