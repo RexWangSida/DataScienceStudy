@@ -27,3 +27,10 @@
   - **Triangle inequality**: `d(x,y) ≤ d(x,z) + d(z,y)`
   - The above three axioms also imply **Non-negativity**, that is `d(x,y) ≥	0`. 
     **Proof**: `0 = d(x,x) ≤ d(x,y) + d(y,x) = d(x,y) + d(x,y) = 2d(x,y)`
+    
+## Clustering Criterion
+- A **clustering criterion** is a function to evaluate the quality of clustering.
+- Different clustering criterions apply to different scenarios, and lead to different clustering results.
+- Most clustering criterions nvolve one or more of the following **three principles**:
+<img src="images/criterion"  ></img>
+
