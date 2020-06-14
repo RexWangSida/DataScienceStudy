@@ -21,7 +21,8 @@
   - A large distance means a small similarity
 - Typical distance metrics for data items `x = [x1, ..., xr]` and `y = [y1, ..., yr]` include
 <img src="images/distance.png"  ></img>
-- A distance metric `d(x,y)` should satisfy the following `three axioms`:
+- A distance metric `d(x,y)` should satisfy the following **three axioms**:
   - **Symmetry**: `d(x,y) = d(y,x)`
   - **Self-similarity**: `d(x,y) = 0 if and only if x= y`
   - **Triangle inequality**: `d(x,y) ≤ d(x,z) + d(z,y)`
+  - The above three axioms also imply **Non-negativity**, that is `d(x,y) ≥	0`. **Proof**: `0 = d(x,x) ≤ d(x,y) + d(y,x) = d(x,y) + d(x,y) = 2d(x,y)`
