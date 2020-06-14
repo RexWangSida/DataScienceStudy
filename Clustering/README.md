@@ -39,7 +39,7 @@
 ## Clustering Algorithms
 <img src="images/algorithms.png"  ></img>
 <Enter>
-<Enter>
+
 - **Hierarchical algorithms**: iteratively generate a tree of clusters by finding successive clusters using previously found cluster.
 <img src="images/hierarchical.png"  ></img>
 <Enter>
