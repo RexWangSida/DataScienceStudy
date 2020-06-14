@@ -32,5 +32,5 @@
 - A **clustering criterion** is a function to evaluate the quality of clustering.
 - Different clustering criterions apply to different scenarios, and lead to different clustering results.
 - Most clustering criterions nvolve one or more of the following **three principles**:
-<img src="images/criterion"  ></img>
+<img src="images/criterion"></img>
 
