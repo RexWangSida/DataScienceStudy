@@ -21,3 +21,6 @@
   - A large distance means a small similarity
 - Typical distance metrics for data items `x = [x1, ..., xr]` and `y = [y1, ..., yr]` include
 <img src="images/distance.png"  ></img>
+- A distance metric `d(x,y)` should satisfy the following `three axioms`:
+  - **Symmetry**: `d(x,y) = d(y,x)`
+  - **Self-similarity**: `d(x,y) = 0 if andd only if x= y`
