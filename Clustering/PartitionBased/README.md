@@ -8,3 +8,5 @@
 ### Clustering Criterion
 - **Number of clusters**: `k` is specified by expert knowledge or experience.
 - **Large cohesion**: minimizing the **sum of squared error(SEE)**: <img src="../images/sse.png" width="20%"></img>
+  - `Cj` is the set of data items belonging to the j-th cluster.
+  - `μj` is the cluster center of the j-yh cluster.
