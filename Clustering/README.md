@@ -33,4 +33,5 @@
 - Different clustering criterions apply to different scenarios, and lead to different clustering results.
 - Most clustering criterions nvolve one or more of the following **three principles**:
 <img src="images/criterion.png"></img>
-
+- Example:
+<img src="images/examples.png"  ></img>
