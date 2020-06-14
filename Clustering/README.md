@@ -23,4 +23,5 @@
 <img src="images/distance.png"  ></img>
 - A distance metric `d(x,y)` should satisfy the following `three axioms`:
   - **Symmetry**: `d(x,y) = d(y,x)`
-  - **Self-similarity**: `d(x,y) = 0 if andd only if x= y`
+  - **Self-similarity**: `d(x,y) = 0 if and only if x= y`
+  - **Triangle inequality**: `d(x,y) ≤ d(x,z) + d(z,y)`
