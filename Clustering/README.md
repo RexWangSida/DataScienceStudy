@@ -42,7 +42,7 @@
 
 - **Hierarchical algorithms**: iteratively generate a tree of clusters by finding successive clusters using previously found cluster.
 <br />
-<div align="center"><img src="images/hierarchical.png"  width="70%" ></img></div>
+<div align="center"><img src="images/hierarchical.png"  width="50%" ></img></div>
 <br />
 
 - **Partition based algorithms**: determine all clusters together by partitioning all data items into a number of cluster.
