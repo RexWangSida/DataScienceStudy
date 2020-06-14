@@ -25,4 +25,5 @@
   - **Symmetry**: `d(x,y) = d(y,x)`
   - **Self-similarity**: `d(x,y) = 0 if and only if x= y`
   - **Triangle inequality**: `d(x,y) ≤ d(x,z) + d(z,y)`
-  - The above three axioms also imply **Non-negativity**, that is `d(x,y) ≥	0`. **Proof**: `0 = d(x,x) ≤ d(x,y) + d(y,x) = d(x,y) + d(x,y) = 2d(x,y)`
+  - The above three axioms also imply **Non-negativity**, that is `d(x,y) ≥	0`. 
+    **Proof**: `0 = d(x,x) ≤ d(x,y) + d(y,x) = d(x,y) + d(x,y) = 2d(x,y)`
