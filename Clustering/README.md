@@ -35,3 +35,6 @@
 <img src="images/criterion.png"></img>
 - Example:
 <img src="images/examples.png"  ></img>
+
+## Clustering Algorithms
+<img src="images/algorithms.png"  ></img>
