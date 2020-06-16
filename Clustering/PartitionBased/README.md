@@ -38,3 +38,9 @@
 
 - Sensitive to outliers.
 <div align="center"><img src="../images/outlier.png" width="50%"></img></div>
+
+### Applicable Domains
+- Computer Vision
+- Image Processing
+- Deep Learning
+- Data Mining
