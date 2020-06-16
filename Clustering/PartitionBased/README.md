@@ -34,7 +34,7 @@
 <div align="center"><img src="../images/k.png" width="80%" height="120%"></img></div>
 
 - Sensitive to initial cluster centers.
-<div align="center"><img src="../images/initial.png" width="80%" height="120%"></img></div>
+<div align="center"><img src="../images/initial.png" width="80%"></img></div>
 
 - Sensitive to outliers.
-<div align="center"><img src="../images/outlier.png" width="80%" height="120%"></img></div>
+<div align="center"><img src="../images/outlier.png" width="50%"></img></div>
