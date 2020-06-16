@@ -29,6 +29,8 @@
   - **Not directly application** to categorical feature(i.e. blood type, educational level).
 - Not suitable for complicated clustering structures.
 <div align="center"><img src="../images/complicated.png" width="80%"></img></div>
-- Sensitive to the number of clusters `k`.
+
+- Sensitive to the number of clusters `k`.*(highly depends on the expertise of the data scientist)*
+<div align="center"><img src="../images/k.png" width="80%"></img></div>
 - Sensitive to initial cluster centers.
 - Sensitive to outliers.
