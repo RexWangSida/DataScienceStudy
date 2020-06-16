@@ -31,6 +31,6 @@
 <div align="center"><img src="../images/complicated.png" width="80%"></img></div>
 
 - Sensitive to the number of clusters `k`.*(highly depends on the expertise of the data scientist)*
-<div align="center"><img src="../images/k.png" width="80%"></img></div>
+<div align="center"><img src="../images/k.png" width="80%" height="120%"></img></div>
 - Sensitive to initial cluster centers.
 - Sensitive to outliers.
