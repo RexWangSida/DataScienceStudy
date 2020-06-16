@@ -22,3 +22,13 @@
   - `t` is the number of iterations.
   - `k` is the number of clusters.
   - `n` is the number of data points.
+
+### Weakness
+- Only applicable when the mean of features is well defined.
+  - **Applicable** for numerical feature(i.e. height, weight, age).
+  - **Not directly application** to categorical feature(i.e. blood type, educational level).
+- Not suitable for complicated clustering structures.
+<div align="center"><img src="../images/complicated.png" width="80%"></img></div>
+- Sensitive to the number of clusters `k`.
+- Sensitive to initial cluster centers.
+- Sensitive to outliers.
