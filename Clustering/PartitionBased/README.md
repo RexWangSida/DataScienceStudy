@@ -15,3 +15,4 @@
   
 ### Clustering Algorithm
 - Given the number of clusters `k`, and a set of data items `D = {x1, ..., xn}`, **k-means partitions D into k clusters**.
+- <div align="center" ><img src="../images/euclidean.png" width="50%"></img></div>
