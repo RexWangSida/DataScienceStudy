@@ -15,3 +15,10 @@
   
 ### Clustering Algorithm
 <div align="center"><img src="../images/kmeans.png" width="80%"></img></div>
+
+### Strength
+- **Simple**: easy to understand and implement.
+- **Efficient**: time complexity is _**O(tkn)**_.
+  - `t` is the number of iterations.
+  - `k` is the number of clusters.
+  - `n` is the number of data points.
