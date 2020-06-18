@@ -42,5 +42,6 @@
 ### Applicable Domains
 - Computer Vision
 - Image Processing
+  - [Image Segmentation](https://github.com/RexWangSida/DataScienceStudy/blob/master/Clustering/PartitionBased/KMeansImageSegmentation.ipynb) practice by _**Dr.Chu**_
 - Deep Learning
 - Data Mining
