@@ -11,11 +11,13 @@
 - [**Clustering Criterion:**](#criterion) A function to <ins>evaluate the quality</ins> of a clustering.
 - [**Clustering Algorithm:**](#algo) An algorithm to <ins>compute a good clustering</ins> by optimizing the clustering criterion.
 
+
 <a id="features">## Features</a>
 - A **featrue** is an individual measurable property of a phenomenon being observed.
 - A feature is **usually a real number** represent a property of data items.
 - A data item `x` is represented by a **feature vector** `x = [x1, x2, ..., xr]`.
 <img src="images/feature1.png" width=50% ></img><img src="images/feature2.png" width=50% ></img>
+
 
 <a id="distance">## Distance Metric</a>
 - A **distance metric** is a function `d(x,y)` that defines the **distance** between two data items `x` and `y`.
