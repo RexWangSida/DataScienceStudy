@@ -6,18 +6,18 @@
 <div align="center"><img src="images/Clusters.png" width=40% ></img></div>
 
 ## Basic Components of a Clustering Algorithm
-- [**Feature:**](##Features) A <ins>measurable property</ins> to <ins>represent an attribute of data items</ins>.
-- [**Distance Metric:**](##DistanceMetric) A function to <ins>evaluate the distance</ins> between two data items.
-- **Clustering Criterion:** A function to <ins>evaluate the quality</ins> of a clustering.
-- **Clustering Algorithm:** An algorithm to <ins>compute a good clustering</ins> by optimizing the clustering criterion.
+- [**Feature:**](#features) A <ins>measurable property</ins> to <ins>represent an attribute of data items</ins>.
+- [**Distance Metric:**](#distance) A function to <ins>evaluate the distance</ins> between two data items.
+- [**Clustering Criterion:**](#criterion) A function to <ins>evaluate the quality</ins> of a clustering.
+- [**Clustering Algorithm:**](#algo) An algorithm to <ins>compute a good clustering</ins> by optimizing the clustering criterion.
 
-## Features
+<a id="features">## Features</a>
 - A **featrue** is an individual measurable property of a phenomenon being observed.
 - A feature is **usually a real number** represent a property of data items.
 - A data item `x` is represented by a **feature vector** `x = [x1, x2, ..., xr]`.
 <img src="images/feature1.png" width=50% ></img><img src="images/feature2.png" width=50% ></img>
 
-## Distance Metric
+<a id="distance">## Distance Metric</a>
 - A **distance metric** is a function `d(x,y)` that defines the **distance** between two data items `x` and `y`.
   - A large distance means a small similarity
 - Typical distance metrics for data items `x = [x1, ..., xr]` and `y = [y1, ..., yr]` include
@@ -29,7 +29,7 @@
   - The above three axioms also imply **Non-negativity**, that is `d(x,y) ≥	0`. 
     **Proof**: `0 = d(x,x) ≤ d(x,y) + d(y,x) = d(x,y) + d(x,y) = 2d(x,y)`
     
-## Clustering Criterion
+<a id="criterion">## Clustering Criterion</a>
 - A **clustering criterion** is a function to evaluate the quality of clustering.
 - Different clustering criterions apply to different scenarios, and lead to different clustering results.
 - Most clustering criterions nvolve one or more of the following **three principles**:
@@ -37,7 +37,7 @@
 - Example:
 <img src="images/examples.png"  ></img>
 
-## Clustering Algorithms
+<a id="algo">## Clustering Algorithms</a>
 <div align="center"><img src="images/algorithms.png" width="70%" ></img></div>
 <br />
 
