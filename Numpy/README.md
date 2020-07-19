@@ -3,4 +3,4 @@
 - Numpy is **fast** since is has bindings to C libraries.
 ## Numpy Arrays
 - [Arrays Basics](./NumPyArrays.ipynb)
-- [Arrays Indexing](./NumPyIndexing.ipynb)
+- [Arrays Indexing](./NumpyIndexing.ipynb)
