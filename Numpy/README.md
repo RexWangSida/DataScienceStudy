@@ -1,4 +1,6 @@
 # Numpy
 - PyData Ecosystem rely on Numpy as one of their main building blocks.
 - Numpy is **fast** since is has bindings to C libraries.
-## [Numpy Arrays](./NumPyArrays.ipynb)
+## Numpy Arrays
+- [Arrays Basics](./NumPyArrays.ipynb)
+- [Arrays Indexing](./NumPyIndexing.ipynb)
