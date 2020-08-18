@@ -4,3 +4,4 @@
 ## Numpy Arrays
 - [Arrays Basics](./NumPyArrays.ipynb)
 - [Arrays Indexing](./NumpyIndexing.ipynb)
+- [Arrays Operations](./NumpyOperations.ipynb)
